@@ -76,4 +76,3 @@ notes: the other reuest format can be seen from ..\routes\patient.js
         	"FaktorResiko" : "Faktor Resiko"
     }
 
- 
