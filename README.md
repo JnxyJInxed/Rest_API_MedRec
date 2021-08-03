@@ -9,6 +9,8 @@ Rest API for E-Health: Smart Card for medical record
 5. start the server by : npm start
 6. id it works, it will give you: "connect to DB moongoose compass"
 
+NOTE: Change the mongooDB link to your own
+
 # B. REQUEST FORMAT EXAMPLE
 notes: the other reuest format can be seen from ..\routes\patient.js
 1. **POST** Data diri pasien
